@@ -189,3 +189,5 @@ typings/
 
 
 # End of https://www.gitignore.io/api/java,node,maven,eclipse
+api/src/main/resources/static/
+api/src/main/resources/templates/
