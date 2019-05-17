@@ -9,7 +9,7 @@
 - api/src/resources/application.properties 파일 DB 설정
 - mvn install && mvn spring-boot:run
 
-2019. 05. 17. 변경사항
+_2019. 05. 17. 변경사항_
 
 - Spring boot 를 버전업 하였습니다.
 - 애플리케이션 이 더 이상 mysql 을 필요로 하지 않습니다. ( h2을 사용합니다. )
